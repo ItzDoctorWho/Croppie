@@ -1,6 +1,6 @@
 # croppie
 
-A new Flutter project.
+Croppie is my first ever official flutter learning project Croppie is your friendly little creature who's going to bite your photos to make them the size you want it to be.
 
 ## Getting Started
 
